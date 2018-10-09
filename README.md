@@ -3,4 +3,4 @@ In this project, different types of available sensors and the data acquired from
 
 COMPLETE PROJECT DESCRIPTION AND WORKING CAN BE FOUND IN THE Project-Description-Working.pdf. 
 
-A DEMO VIDEO IS ALSO INCLUDED
+A DEMO VIDEO IS ALSO INCLUDED.
