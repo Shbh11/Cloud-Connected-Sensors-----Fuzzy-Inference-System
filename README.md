@@ -5,4 +5,15 @@ COMPLETE PROJECT DESCRIPTION AND WORKING CAN BE FOUND IN THE Project-Description
 
 VIDEO LINK for PROJCECT DEMO : https://youtu.be/P9GRz4gARXc
 
+Given below are slides describing the project components used and the overall working of the system.
+
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-0.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-1.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-2.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-3.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-4.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-5.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-6.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/Presentation1-7.jpg)
+![alt text](https://github.com/Shbh11/Cloud-Connected-Sensors-----Fuzzy-Inference-System/blob/master/Presentation-Slides/ProjectReportFinal-page-028.jpg)
 
