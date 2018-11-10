@@ -5,7 +5,7 @@ In this project, different types of available sensors and the data acquired from
 
 COMPLETE PROJECT DESCRIPTION AND WORKING CAN BE FOUND IN THE Project-Description-Working.pdf. 
 
-VIDEO LINK for PROJCECT DEMO : https://youtu.be/P9GRz4gARXc
+VIDEO LINK for PROJECT DEMO : https://youtu.be/P9GRz4gARXc
 
 Given below are slides describing the project components used and the overall working of the system.
 
