@@ -1,9 +1,9 @@
 # Cloud-Connected-Sensors-----Fuzzy-Inference-System
 In this project, different types of available sensors and the data acquired from them is published to an IoT cloud service like ThingSpeak using Arduino as the microcontroller board and Esp8266 12E as the wifi module.The wifi module will enable the Arduino board to be connected to the internet , thereby facilitating web data transfer . The uploaded sensor data will be interpretted and displayed in the form of graphs. Uploaded sensor data is also inputted into a fuzzy inference engine whose output is used in the implementation of a response system to respond to changes in environmental conditions by an automated process to bring them back to normal/stable conditions and create alerts incase of critical fire/gas leaks making it an industrial internet of things (IIoT) based monitoring system prototype . Finally we look at some real life applications where this type of a project could be scaled up and used in different ways.
 
-*fuzzycode.py contains the code used in the jupyter python notebook.
 
-COMPLETE PROJECT DESCRIPTION AND WORKING CAN BE FOUND IN THE Project-Description-Working.pdf. 
+
+Complete project description and working can be found in Project-Description-Working.pdf. 
 
 Given below are slides describing the project components used and the overall working of the system.
 
